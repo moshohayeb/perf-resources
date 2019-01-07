@@ -17,3 +17,6 @@ A *not* kitchen sink list of resources that I found particularly helpful in doin
 ** Tools
 - [[https://perf.wiki.kernel.org/index.php/Main_Page][Linux Perf]]
 - [[https://software.intel.com/en-us/vtune][Intel vTune]]
+
+** Blogs
+- [[http://www.brendangregg.com/][Brendan Gregg]]
