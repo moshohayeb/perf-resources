@@ -13,3 +13,7 @@ A *not* kitchen sink list of resources that I found particularly helpful in doin
 ** Articles
 - [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][What Every Programmer Should Know About Memory]]
 - [[https://www.ibm.com/developerworks/library/pa-dalign/][Data Alignment: Straighten Up and Fly Right]]
+
+** Tools
+- [[https://perf.wiki.kernel.org/index.php/Main_Page][Linux Perf]]
+- [[https://software.intel.com/en-us/vtune][Intel vTune]]
