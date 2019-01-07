@@ -1,6 +1,15 @@
 * Performance Optimization Resources
 A *not* kitchen sink list of resources that I found particularly helpful in doing performance optimization
 
+** Videos
+- [[https://www.youtube.com/watch?v=WDIkqP4JbkE&feature=youtu.be][CPU Caches and Why You Care by Scott Meyers]]
+- [[https://www.youtube.com/watch?v=OFgxAFdxYAQ&feature=youtu.be][A Crash Course in Modern Hardware by Cliff Click]]
+- [[https://www.youtube.com/watch?v=03GsLxVdVzU&list=PL5wQddQ0EF_tGTAoq-VCV2etJpCDJstBt&index=2&t=0s][Designing for Performance by Martin Thompson]]
+- [[https://www.youtube.com/watch?v=qpfwDySweUA&list=PL5wQddQ0EF_tGTAoq-VCV2etJpCDJstBt&index=3&t=0s][Application Performance Tuning and Future Optimizations in DPDK by Venky Venkatesan]]
+- [[https://www.youtube.com/watch?v=nXaxk27zwlk&feature=youtu.be][Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My! by Chandler Carruth]]
+- [[https://www.youtube.com/watch?v=NH1Tta7purM&list=PL5wQddQ0EF_tGTAoq-VCV2etJpCDJstBt&index=5&t=11s][When a Microsecond Is an Eternity: High Performance Trading Systems in C++ by Carl Cook]]
+- [[https://www.youtube.com/watch?v=MC1EKLQ2Wmg&list=PL5wQddQ0EF_tGTAoq-VCV2etJpCDJstBt&index=7&t=3s][Mythbusting Modern Hardware to Gain 'Mechanical Sympathy' by Martin Thompson]]
+
 ** Articles
 - [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][What Every Programmer Should Know About Memory]]
 - [[https://www.ibm.com/developerworks/library/pa-dalign/][Data Alignment: Straighten Up and Fly Right]]
