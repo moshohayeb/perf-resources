@@ -10,9 +10,15 @@ A *not* kitchen sink list of resources that I found particularly helpful in doin
 - [[https://www.youtube.com/watch?v=NH1Tta7purM&list=PL5wQddQ0EF_tGTAoq-VCV2etJpCDJstBt&index=5&t=11s][When a Microsecond Is an Eternity: High Performance Trading Systems in C++ by Carl Cook]]
 - [[https://www.youtube.com/watch?v=MC1EKLQ2Wmg&list=PL5wQddQ0EF_tGTAoq-VCV2etJpCDJstBt&index=7&t=3s][Mythbusting Modern Hardware to Gain 'Mechanical Sympathy' by Martin Thompson]]
 
-** Articles
+** Books
+- [[https://www.agner.org/optimize/optimizing_cpp.pdf][Optimizing C++ by Agner Fog]]
 - [[https://people.freebsd.org/~lstewart/articles/cpumemory.pdf][What Every Programmer Should Know About Memory]]
+
+** Articles
 - [[https://www.ibm.com/developerworks/library/pa-dalign/][Data Alignment: Straighten Up and Fly Right]]
+
+** Presentations
+- [[http://realtimecollisiondetection.net/pubs/GDC03_Ericson_Memory_Optimization.ppt][Memory Optimization by Christer Ericson]]
 
 ** Tools
 - [[https://perf.wiki.kernel.org/index.php/Main_Page][Linux Perf]]
