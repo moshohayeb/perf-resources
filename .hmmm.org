@@ -1,0 +1,3 @@
+
+* Caches
+- [[https://www.youtube.com/watch?v=chnhnxWIjgw][9 parts video series about CPU caching]]
