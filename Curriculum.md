@@ -1,1 +1,2 @@
 -  [Hashing](https://samwho.dev/hashing/)
+- [Everything You Always Wanted to Know About TCP But Too Afraid to Ask](https://blog.bytebytego.com/p/everything-you-always-wanted-to-know)
